@@ -98,7 +98,7 @@ admin_header($id ? 'Edit Work' : 'Upload New Work', 'works', $id ? 'Update the d
       <div class="field">
         <label>Title <span class="req">*</span></label>
         <input type="text" name="title" required maxlength="190" data-slug-source
-               value="<?= e($item['title'] ?? '') ?>" placeholder="e.g. Jujutsu Kaisen Fan Edit Series">
+               value="<?= e($item['title'] ?? '') ?>" placeholder="e.g. Digital Content Series">
       </div>
       <div class="field">
         <label>URL slug</label>

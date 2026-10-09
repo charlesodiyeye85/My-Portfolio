@@ -63,7 +63,7 @@ foreach ($socials as $key => $meta) {
 
 $services = [
     ['icon' => 'bi-megaphone-fill', 'title' => 'Social Media Management', 'text' => 'Content calendars, community management, reels strategy and monthly analytics for brands that want to grow honestly and consistently.'],
-    ['icon' => 'bi-lightning-charge-fill', 'title' => 'Jujutsu Content Creation', 'text' => 'Niche anime & jujutsu content — edits, breakdowns and trending formats built for shares, saves and a loyal fandom.'],
+    ['icon' => 'bi-lightning-charge-fill', 'title' => 'Digital Content Creation', 'text' => 'Scroll-stopping digital content — edits, breakdowns and trending formats built for shares, saves and a loyal audience.'],
     ['icon' => 'bi-clipboard2-pulse-fill', 'title' => 'Radiography & Imaging', 'text' => 'Professional radiographic positioning, exposure and patient care — diagnostic image quality with a human touch.'],
     ['icon' => 'bi-film', 'title' => 'Video Editing', 'text' => 'Colour grading, sound design, motion titles and pacing for reels, brand films, documentaries and explainers.'],
     ['icon' => 'bi-globe2', 'title' => 'Geographic Design', 'text' => 'Thematic maps, data visualisation and spatial infographics in QGIS, ArcGIS and Illustrator that people actually read.'],
@@ -130,7 +130,7 @@ $services = [
       <h1>Charles Odeye<br><span class="grad">Damilola</span></h1>
       <div class="hero-role">
         <span class="typed" data-typewriter
-          data-words="Jujutsu Content &amp; Social Media Executive|Radiographer|Video Editor|Geographic Designer"></span><span class="caret"></span>
+          data-words="Digital Content &amp; Social Media Executive|Radiographer|Video Editor|Geographic Designer"></span><span class="caret"></span>
       </div>
       <p class="lead"><?= e(setting('hero_subtitle')) ?></p>
       <div class="hero-actions">

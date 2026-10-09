@@ -192,7 +192,7 @@
   function categoryFromKey(key) {
     var map = {
       "content-social": "Content & Social Media",
-      "jujutsu": "Jujutsu Content",
+      "digital": "Digital Content",
       "radiography": "Radiography",
       "video": "Video Editing",
       "geographic": "Geographic Design"

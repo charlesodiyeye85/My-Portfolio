@@ -276,7 +276,7 @@ function work_categories(): array
 {
     return [
         'content-social' => 'Content & Social Media',
-        'jujutsu'        => 'Jujutsu Content',
+        'digital'        => 'Digital Content',
         'radiography'    => 'Radiography',
         'video'          => 'Video Editing',
         'geographic'     => 'Geographic Design',
@@ -293,7 +293,7 @@ function category_icon(string $key): string
 {
     return match ($key) {
         'content-social' => 'bi-megaphone-fill',
-        'jujutsu'        => 'bi-lightning-charge-fill',
+        'digital'        => 'bi-lightning-charge-fill',
         'radiography'    => 'bi-clipboard2-pulse-fill',
         'video'          => 'bi-film',
         'geographic'     => 'bi-globe2',

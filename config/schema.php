@@ -193,7 +193,7 @@ function default_settings(): array
         'site_title'       => 'Charles Odeye Damilola',
         'tagline'          => 'Content • Radiography • Video • Maps',
         'hero_subtitle'    => 'I build audiences with scroll-stopping content, capture the human body with precision as a radiographer, edit video that tells stories, and design maps that make data beautiful.',
-        'bio'              => 'I am Charles Odeye Damilola — a multi-disciplinary creative and healthcare professional based in Nigeria. As a jujutsu content and social media executive I plan, shoot and grow communities online; as a radiographer I produce diagnostic images that help doctors save lives; as a video editor I turn raw footage into stories; and as a geographic designer I turn data into maps people actually enjoy reading.',
+        'bio'              => 'I am Charles Odeye Damilola — a multi-disciplinary creative and healthcare professional based in Nigeria. As a digital content and social media executive I plan, shoot and grow communities online; as a radiographer I produce diagnostic images that help doctors save lives; as a video editor I turn raw footage into stories; and as a geographic designer I turn data into maps people actually enjoy reading.',
         'phone'            => '+234 800 000 0000',
         'email'            => 'hello@charlesdamilola.com',
         'location'         => 'Lagos, Nigeria',
@@ -217,10 +217,10 @@ function demo_works(): array
 {
     return [
         [
-            'title' => 'Jujutsu Kaisen Fan Edit Series', 'slug' => 'jujutsu-kaisen-fan-edit-series',
-            'category' => 'jujutsu', 'client' => 'Personal / Anime Community', 'tools' => 'CapCut, Premiere Pro, After Effects',
-            'year' => '2026', 'description' => 'A viral series of jujutsu-themed short edits built around cursed-energy transitions, timing-sync fight cuts and manga panel reveals. Grew the page from 0 to a loyal anime audience with consistent weekly drops and engagement-driven captions.',
-            'image' => 'assets/img/placeholders/work-jujutsu.svg', 'video_url' => '', 'external_url' => '',
+            'title' => 'Digital Content Series', 'slug' => 'digital-content-series',
+            'category' => 'digital', 'client' => 'Personal / Digital Community', 'tools' => 'CapCut, Premiere Pro, After Effects',
+            'year' => '2026', 'description' => 'A viral series of short-form digital content built around trending transitions, timing-synced cuts and dynamic reveals. Grew the page from 0 to a loyal audience with consistent weekly drops and engagement-driven captions.',
+            'image' => 'assets/img/placeholders/work-digital.svg', 'video_url' => '', 'external_url' => '',
             'status' => 'published', 'is_featured' => 1, 'views' => 128,
         ],
         [

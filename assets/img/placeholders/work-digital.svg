@@ -1,7 +1,7 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="800" height="600" viewBox="0 0 800 600" font-family="Segoe UI, Arial, sans-serif">
   <defs>
     <linearGradient id="g" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0%" stop-color="#1a1035"/><stop offset="100%" stop-color="#7c1e3c"/>
+      <stop offset="0%" stop-color="#101a3a"/><stop offset="100%" stop-color="#1e6f8c"/>
     </linearGradient>
     <radialGradient id="glow" cx="0.75" cy="0.2" r="0.8">
       <stop offset="0%" stop-color="#ffffff" stop-opacity="0.28"/><stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
@@ -20,7 +20,7 @@
     <circle r="76" fill="none" stroke="#ffffff" stroke-opacity="0.5" stroke-width="2"/>
     <text y="24" font-size="64" fill="#ffffff">⚡</text>
   </g>
-  <text x="400" y="392" text-anchor="middle" font-size="34" font-weight="700" fill="#ffffff">JUJUTSU EDIT</text>
-  <text x="400" y="430" text-anchor="middle" font-size="19" fill="#ffffff" fill-opacity="0.75">Cursed energy transitions</text>
+  <text x="400" y="392" text-anchor="middle" font-size="34" font-weight="700" fill="#ffffff">DIGITAL CONTENT</text>
+  <text x="400" y="430" text-anchor="middle" font-size="19" fill="#ffffff" fill-opacity="0.75">Edits &amp; trending formats</text>
   <rect x="400" y="462" width="120" height="4" rx="2" fill="#ffffff" fill-opacity="0.6"/>
 </svg>

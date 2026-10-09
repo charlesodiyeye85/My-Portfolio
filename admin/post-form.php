@@ -123,7 +123,7 @@ admin_header($id ? 'Edit Post' : 'Write a Post', 'posts', $id ? 'Update the body
         <datalist id="catlist">
           <option>Content &amp; Social Media</option>
           <option>Social Media</option>
-          <option>Jujutsu</option>
+          <option>Digital Content</option>
           <option>Radiography</option>
           <option>Video Editing</option>
           <option>Geographic Design</option>
