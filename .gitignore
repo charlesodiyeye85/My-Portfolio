@@ -1,0 +1,11 @@
+# SQLite transient files (main .sqlite is committed on purpose)
+/config/*.sqlite-shm
+/config/*.sqlite-wal
+
+# OS / editor cruft
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+*.log
